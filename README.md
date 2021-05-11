@@ -1,4 +1,4 @@
-# **Git - Treinamento 2021.1**
+# **Treinamento - Git - 2021.1**
 
 ## Instalação e Primeira configuração
 
