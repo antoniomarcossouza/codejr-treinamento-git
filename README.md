@@ -16,7 +16,7 @@ git config --global user.email darlanzinho@codejr.com
 Abra uma pasta, clique com o botão direito e selecione "Git Bash Here" para abrir o terminal do git\
 Clone o repositório
 ```
-git clone https://github.com/antoniomarcossouza/treinamento_git_trainee.git
+git clone https://github.com/antoniomarcossouza/treinamento_git_trainee_2021.1
 ```
 Entre na pasta criada pelo comando clone
 ```
