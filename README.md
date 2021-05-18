@@ -27,7 +27,7 @@ Crie sua branch usando como o padrão o nome da funcionalidade que você vai des
 git checkout -b contato_frontend
 ```
 Após criada a branch você será redirecionado automaticamente a ela, já podendo começar o desenvolvimento\
-\
+
 
 ## Rotina
 
